@@ -1,6 +1,8 @@
 # API Contract
-* Consumer Driven Contract
-* Provider Driven Contract
+
+- Consumer Driven Contract
+- Provider Driven Contract
+
 ```
 Request
   URI: /cashcards/{id}
